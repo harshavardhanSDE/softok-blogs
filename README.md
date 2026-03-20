@@ -9,3 +9,5 @@
 Soft Robotics Toolkit : https://softroboticstoolkit.com/
 
 Oxford - Soft robotics lab : https://ori.ox.ac.uk/groups/srl
+
+Harvard - Soft robotics : https://www.gmwgroup.harvard.edu/soft-robotics
