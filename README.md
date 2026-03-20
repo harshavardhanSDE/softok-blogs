@@ -2,7 +2,7 @@
 
 #### Table of contents
 
-[Soft Robotics](# Soft Robotics)
+[Soft Robotics](Soft Robotics)
 
 
 # Soft Robotics
