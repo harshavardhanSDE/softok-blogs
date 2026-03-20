@@ -6,5 +6,6 @@
 
 # Soft Robotics
 
-Soft Robotics Toolkit : https://softroboticstoolkit.com/ `<br/>`
+Soft Robotics Toolkit : https://softroboticstoolkit.com/
+
 Oxford - Soft robotics lab : https://ori.ox.ac.uk/groups/srl
