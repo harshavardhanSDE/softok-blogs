@@ -1,8 +1,7 @@
 ![minimal + Bauhaus style softok-labs logo](media/min-bauhaus.png)
 
 #### Table of contents
-
-[Soft Robotics](Soft Robotics)
+[Soft robotics](#Soft-Robotics)
 
 
 # Soft Robotics
